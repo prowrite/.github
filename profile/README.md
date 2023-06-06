@@ -1,4 +1,4 @@
-## ProWrite.ai
+## Prowrite.ai
 
 <!--
 
