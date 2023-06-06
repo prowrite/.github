@@ -1,0 +1,2 @@
+# .github
+pro wirte ai
